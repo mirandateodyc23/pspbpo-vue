@@ -1,0 +1,175 @@
+/*   jQuery Sliding Menu Plugin
+ *	Mobile app list-style navigation in the browser
+ *	Written by Ali Zahid
+ *	http://designplox.com/jquery-sliding-menu
+ *
+ */
+
+.sliding-menu {
+    font-family: Raleway;
+    overflow: hidden;
+    position: relative;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.sliding-menu ul {
+    float: left;
+    margin: 0;
+	padding:0;
+}
+
+.sliding-menu li {
+    list-style: none;
+    margin: 0;
+}
+
+.sliding-menu a {
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid #e4e4e4;
+    text-decoration: none;
+}
+
+.sliding-menu li:last-child a {
+    border-bottom: none;
+}
+
+.sliding-menu a:hover {
+    background: #e4e4e4;
+    color: #606060;
+}
+
+.sliding-menu a.nav:before {
+    content: '+';
+    font-size: 29px;
+    color: #0264aa;
+    float: right;
+    margin-left: 1em;
+    font-weight: 400;
+    margin-top: -0px;
+}
+
+.sliding-menu a.back {
+    background: #fff;
+    color: #606060;
+}
+
+.sliding-menu a.back:before {
+    content: '-';
+    font-size: 29px;
+    color: #0264aa;
+    float: right;
+    margin-left: 1em;
+    font-weight: 400;
+    margin-top: -0px;
+}
+
+#menu {
+    background: #f9f9f9;
+    width: 300px;
+    border-radius: 5px;
+    margin: 0px;
+    border: 1px solid #e4e4e4;
+}
+
+#menu ul {
+    margin-left: 0px;
+	padding:0;
+
+}
+
+.menu-panel-root {
+    position: relative;
+    z-index: 999999;
+}
+
+.menu-panel {
+    position: relative;
+    z-index: 99;
+}
+
+#menu a {
+    color: #606060;
+	line-height: 17px;
+}
+
+.sliding-language {
+    font-family: Raleway;
+    overflow: hidden;
+    position: relative;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.sliding-language ul {
+    float: left;
+    margin: 0;
+	padding:0;
+}
+
+.sliding-language li {
+    list-style: none;
+    margin: 0;
+}
+
+.sliding-language a {
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid #e4e4e4;
+    text-decoration: none;
+}
+
+.sliding-language li:last-child a {
+    border-bottom: none;
+}
+
+.sliding-language a:hover {
+    background: #e4e4e4;
+    color: #606060;
+}
+
+.sliding-language a.nav:before {
+    content: '+';
+    font-size: 29px;
+    color: #0264aa;
+    float: right;
+    margin-left: 1em;
+    font-weight: 400;
+    margin-top: -0px;
+}
+
+.sliding-language a.back {
+    background: #fff;
+    color: #606060;
+}
+
+.sliding-language a.back:before {
+    content: '-';
+    font-size: 29px;
+    color: #0264aa;
+    float: right;
+    margin-left: 1em;
+    font-weight: 400;
+    margin-top: -0px;
+}
+
+#language {
+    background: #f9f9f9;
+    width: 300px;
+    border-radius: 5px;
+    margin: 0px;
+    border: 1px solid #e4e4e4;
+}
+
+#language ul {
+    margin-left: 0px;
+	padding:0;
+
+}
+
+#language a {
+    color: #606060;
+	line-height: 17px;
+}
+

@@ -1,0 +1,61 @@
+.header{
+  background-color: #efefef;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  line-break: auto;
+}
+
+.v-window-item {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.v-window-item .resume-img-container  {
+  width: 30%;
+}
+
+.v-window-item > .v-container {
+  width: 35%;
+  padding-left: 50px;
+}
+
+.v-window-item hr {
+  display: none;
+}
+
+.v-sheet.header {
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.v-img  {
+  border: 1px solid rgb(186, 184, 184);
+  border-radius: 50%;
+  width: 100%;
+}
+
+.v-tabs {
+  border-right: 1px solid rgb(186, 184, 184);
+  opacity: 75%;
+}
+
+.job-info {
+  color:  #0264aa;
+}
+
+.bg-surface-variant {
+  background-color: white !important;
+}
+.v-table {
+  width: 50%;
+}
+
+.history-data {
+  border: 1px solid rgb(195, 192, 192);
+  text-align: center;
+}

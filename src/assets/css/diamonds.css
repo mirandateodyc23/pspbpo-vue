@@ -1,0 +1,144 @@
+.diamondswrap {
+    display: table;
+    width: 1840px;
+	overflow:auto;
+	padding:0 10px;
+}
+
+.diamonds {
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.diamond-row-wrap {
+    text-align: center;
+    position: relative;
+    float: left;
+    clear: both;
+}
+.diamond-row-upper, .diamond-row-lower {
+    overflow: visible;
+    clear: both;
+    width: 100%;
+}
+.diamond-row-lower {
+    position: absolute;
+    bottom: 0;
+}
+    .diamond-row-lower .diamond-box {
+        margin-left: 64.644660941%; /* 1 - 1 / sqrt(2) / 2 */
+        margin-top: 64.644660941%;
+    }
+
+.diamond-box-wrap {
+    float: left;
+    width: 250px; /* Size of diamonds */
+    height: 250px;
+}
+
+.diamond-box {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+
+    overflow: hidden;
+    
+    position: relative;
+    z-index: 1;
+    
+    width: 70.710678118%; /* x = sqrt(x^2 / 2) = 1 / sqrt(2) = 0.70710678118 */
+    height: 70.710678118%;
+    margin: 14.644660941%;
+    
+    border: 1px solid transparent;
+}
+
+.diamond-box-inner {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+
+    -webkit-transform-origin: center center;
+    -moz-transform-origin: center center;
+    -ms-transform-origin: center center;
+    transform-origin: center center;
+    
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    
+    width: 141.421356237%; /* sqrt(2) */
+    height: 141.421356237%;
+    margin: -20.7106781185% 0 0 -20.7106781185%; /* (1 - sqrt(2)) / 2 */
+}
+
+
+
+/* Tiny Scrollbar */
+#scrollbar2 {
+    width: 100%;
+    margin: 0px 0px 40px;
+}
+
+#scrollbar2 .viewport {
+    width: 100%;
+    height: 570px;
+    overflow: hidden;
+    position: relative;
+}
+
+#scrollbar2 .overview {
+    list-style: none outside none;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#scrollbar2 .scrollbar {
+    position: relative;
+    clear: both;
+    height: 15px;
+    background: #f2f2f2;
+    width: 520px !important;
+	border-radius:10px;
+    margin: 0 auto;
+}
+
+#scrollbar2 .track {
+    background: url('../images/bg-scrollbar-trackend-x.png') no-repeat scroll 100% 0px transparent;
+    width: 100%;
+    height: 15px;
+    position: relative;
+}
+
+#scrollbar2 .thumb {
+background:url(../images/scroll.png) no-repeat center top;
+    height: 25px;
+    cursor: pointer;
+    overflow: hidden;
+    position: absolute;
+    left: 0px;
+    top: -5px;
+margin:0 10px;
+width: 142px !important;
+    background-color: #0264aa;
+    border-radius: 3px;
+}
+
+#scrollbar2 .thumb .end {
+}
+
+#scrollbar2 .disable { display: none; }
+.noSelect { user-select: none; -o-user-select: none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; }
+

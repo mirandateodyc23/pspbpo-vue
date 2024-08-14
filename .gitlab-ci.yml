@@ -1,0 +1,66 @@
+stages:
+  - build_test
+  - build
+  - image_build
+
+before_script:
+  - apk update && apk add openssh-client bash git curl
+  - export imageTag=dev-$(tmp=${CI_PIPELINE_CREATED_AT//-/};echo ${tmp:0:8})-$CI_PIPELINE_ID-$CI_COMMIT_REF_SLUG
+cache:
+    paths:
+    - node_modules/
+
+build_test:
+  stage: build_test
+  image: 12repo.72812827.com/tool/node:18.12.1
+  script:
+    - rm -rf uat-setting
+    - git clone "https://${gitlab_username}:${gitlab_token}@12git.72812827.com/psp-projects/uat-setting.git"
+    - cd uat-setting && export GIT_DIR=.git
+    - git fetch origin master && git checkout -B "master" "origin/master" -f
+    - cd ..
+    - cp -arpf uat-setting/UAT-Test/pspbpo-vue/. ./
+    - npm install -f
+    - npm install -g @vue/cli@5.0.8
+    - npm run build:uat-test
+  artifacts:
+    paths:
+      - dist/
+  tags: 
+    - ci-linux-runner
+  only:
+  - uat-test
+
+build:
+  stage: build
+  image: 12repo.72812827.com/tool/node:18.12.1
+  script:
+    - rm -rf production-setting
+    - git clone "https://${gitlab_username}:${gitlab_token}@12git.72812827.com/psp-projects/production-setting.git"
+    - cd production-setting && export GIT_DIR=.git
+    - git fetch origin master && git checkout -B "master" "origin/master" -f
+    - cd ..
+    - cp -arpf production-setting/Production/pspbpo-vue/. ./
+    - npm install -f
+    - npm install -g @vue/cli@5.0.8
+    - npm run build:production
+  artifacts:
+    paths:
+      - dist/
+  tags: 
+    - ci-linux-runner
+  only:
+  - master
+
+image_build:
+  stage: image_build
+  image: 12repo.72812827.com/tool/docker:20.10.17
+  script:
+    - docker info
+    - docker build -f Dockerfile -t ${docker_hub_host}/psp-projects/${CI_PROJECT_NAME}:$imageTag .
+    - docker push ${docker_hub_host}/psp-projects/${CI_PROJECT_NAME}:$imageTag
+  tags: 
+    - ci-linux-runner
+  only:
+  - uat-test
+  - master

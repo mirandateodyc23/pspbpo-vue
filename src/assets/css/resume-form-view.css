@@ -1,0 +1,319 @@
+.p-float-label .p-calendar {
+    width: 100%;
+    border: none;
+    height: 48px;
+}
+
+/* End of Year Picker edits */
+
+.submit-button {
+    background: #0264aa !important;
+}
+.progressbar {
+    counter-reset: step;
+    display: flex;
+    flex:wrap;
+    width: 100%;
+}
+.progressbar li{
+    list-style-type: none;
+    float: left;
+    width:100%;
+    position:relative;
+    text-align: center;
+    font-weight: 600;
+}
+/* CSS for creating steper block before the li item*/
+.progressbar li:before {
+    content:counter(step);
+    counter-increment: step;
+    height:35px;
+    width:35px;
+    line-height: 35px;
+    border: 2px solid #ddd;
+    display:block;
+    text-align: center;
+    margin: 0 auto 10px auto;
+    border-radius: 50%;
+    background-color: white;
+}
+/* CSS for creating horizontal line*/
+.progressbar li:after {
+    content:"";
+    position: absolute;
+    width:100%;
+    height:2px;
+    background-color: #ddd;
+    top: 15px;
+    left: -50%;
+    z-index: -1;
+}
+.progressbar li:first-child:after {
+    content:none;
+}
+.progressbar li.active {
+    color:#0264aa;
+}
+.progressbar li.active:before {
+    border-color:#0264aa;
+}
+.progressbar li.active + li:after{
+    background-color:#0264aa;
+}
+.progressbar li.error {
+    color: #B00020;
+}
+.progressbar li.error:before {
+    border-color: #B00020;
+}
+.progressbar li.error + li:after {
+    background-color:#B00020;
+}
+.form-input-wrapper:deep() h4 {
+    background: #f2f2f2;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+.form-input-wrapper:deep() h4:not(:first-child) {
+    margin-top: 50px;
+}
+.forms-container:deep() .v-field {
+    box-shadow: none;
+    background-color: #ffffee57;
+    border-bottom: 1px solid #a3a3a3;
+    border-radius: 2px;
+    min-height: 48px;
+}
+.forms-container:deep() .v-select--selected .v-field.v-field--active, .forms-container:deep() .v-field--active.v-field--dirty {
+    background-color: #eaf9ff;
+    width: 100%;
+}
+
+.forms-container:deep() .v-field--error+label{
+    color: #B00020 !important ;
+    opacity: 1 !important ;
+}
+
+.forms-container:deep() .v-field--error {
+    background-color: #ffecec !important;
+    width: 100%;
+}
+.v-field--center-affix .v-label.v-field-label {
+    font-weight: 300;
+    color: #000000;
+    opacity: 0.9;
+}
+.v-row > div {
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+.forms-container:deep() .v-input__details {
+    display: none;
+}
+.forms-container:deep() .v-input__details:has(.v-messages__message) {
+    display: block;
+}
+.v-field--active .v-label.v-field-label {
+    visibility: hidden;
+    opacity: 0.3;
+}
+.form-input-wrapper:deep() .btn-stepper {
+    padding: 30px 15px 0;
+}
+.forms-container {
+    display: grid;
+    row-gap: 25px;
+    padding: 20px 0;
+}
+.faq-info p:deep() {
+    margin: 15px 0 0;
+}
+.form-input-wrapper:deep() .v-selection-control .v-label {
+    padding-top: 8px;
+}
+.form-input-wrapper:deep() .required-input .v-field:before {
+    content: '*';
+    transform: scale(1.4);
+    color: rgb(var(--v-theme-error));
+    opacity: 0.65;
+    position: absolute;
+    top: 12px;
+    left: 5px;
+    font-weight: 900;
+}
+.form-input-wrapper:deep() .w-add-field .v-card.v-theme--light {
+   border-left: 6px solid #33333324;
+   border-radius: 0;
+   padding: 20px 30px 35px 20px !important;
+   background: #efefef4d;
+}
+.form-input-wrapper:deep() .w-add-field button.v-btn.btn-removeField {
+   position: absolute;
+   top: 0;
+   right: 0;
+   transform: scale(0.65);
+}
+.form-input-wrapper:deep() .w-add-field button.v-btn.btn-addfield {
+   height: 37px !important;
+   font-size: 16px;
+}
+.form-input-wrapper:deep() .resume-image iframe {
+   margin-top: 30px;
+}
+.form-input-wrapper:deep() .v-file-input input[type=file] {
+   cursor: pointer;
+}
+.forms-container:deep() .resume-image .v-field {
+   border: 1px dashed #a3a3a3;
+}
+.forms-container:deep() .resume-image .v-field:hover {
+   border: 1px dashed #ffa500;
+}
+.forms-container:deep() .w-add-field button.v-btn.btn-addfield[disabled] {
+   filter: grayscale(1);
+   cursor: no-drop;
+   pointer-events: auto !important;
+}
+.forms-container:deep() .vue-tel-input {
+   border-radius: 0;
+   border: none;
+   height: 48px;
+   min-height: 48px;
+   border-bottom: 1px solid #a3a3a3;
+   background-color: #ffffee57;
+}
+.forms-container:deep() .vti__input {
+   font-size: 16px;
+   padding: 19px 16px 4px 6px;
+}
+.forms-container:deep() .vti__flag {
+   transform: scale(1.15);
+}
+.forms-container:deep() .vue-tel-input:focus-within {
+   box-shadow: none;
+}
+.forms-container:deep() div[label-holder] {
+   position: relative;
+}
+.forms-container:deep() div[label-holder]:after {
+   content: attr(label-holder);
+   position: absolute;
+   width: 100%;
+   left: 62px;
+   top: 50%;
+   transform: translate(0, -50%);
+   font-weight: 600;
+   color: rgba(0, 0, 0, 0.85);
+   font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+   cursor: none;
+   user-select: none;
+   pointer-events: none;
+   font-size: 16px;
+   transition: 0.1s all ease-in-out;
+   opacity: 0.78;
+}
+.forms-container:deep() div.vue-tel-input[label-holder]:focus-within:after,
+.forms-container:deep() div.vue-tel-input[label-holder]:has(.vti__input:not(:placeholder-shown)):after {
+   opacity: 1;
+   transform: scale(0.78) translate(-14%, -50%);
+   top: 29%;
+}
+
+.forms-container:deep() div.vue-tel-input[label-holder]:has(.vti__input:not(:placeholder-shown)) {
+   background-color: #eaf9ff;
+}
+
+.forms-container:deep() .vti__input::-webkit-input-placeholder    { visibility: hidden; }
+.forms-container:deep() .vti__input::-moz-placeholder             { visibility: hidden; }
+.forms-container:deep() .vti__input::-ms-input-placeholder         { visibility: hidden; }
+
+.form-input-wrapper:deep() .required-input.vue-tel-input:before {
+    content: '*';
+    transform: scale(1.4);
+    color: rgb(var(--v-theme-error));
+    opacity: 0.65;
+    position: absolute;
+    top: 12px;
+    left: 2px;
+    font-weight: 900;
+    z-index: 9;
+}
+.forms-container:deep() .resume-image .v-field__input {
+    overflow: hidden;
+    display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.v-card:deep() {
+    overflow: inherit;
+}
+
+.forms-container:deep()  .v-field--center-affix .v-field__append-inner {
+    max-height: 48px;
+}
+.forms-container:deep() .v-select.v-select--single .v-field__input {
+    padding-top: 10px;
+    min-height: 48px;
+    max-height: 48px;
+}
+.forms-container:deep() .v-field--variant-filled .v-field__overlay {
+    opacity: 0;
+}
+form.v-form {
+    margin-top: 60px;
+}
+.forms-container[data-v-5abe42e0] {
+    display: block;
+    padding: 20px 0 60px;
+}
+/* .form-input-wrapper[data-v-5abe42e0] .w-add-field .v-card.v-theme--light {
+    position: relative;
+    z-index: 1;
+} */
+
+.form-input-wrapper[data-v-5abe42e0] .w-add-field .v-card.v-theme--light:has(.vti__dropdown.open) {
+    z-index: 9;
+    position: relative;
+}
+
+@media screen and (max-width: 480px) {
+   .form-input-wrapper:deep() .w-add-field button.v-btn.btn-addfield {
+       height: 37px !important;
+       font-size: 14px;
+   }
+}
+.faq-info p[data-v-5abe42e0] {
+   margin: 40px 0 10px;
+   font-style: italic;
+   color: #0264aa;
+}
+
+.text-required-field {
+    font-size: 1.2em;
+}
+
+.text-required-field span {
+    font-size: 1.2em;
+    font-weight: 900;
+    position:relative; 
+    top:5px;
+}
+
+.form-input-wrapper:deep() .p-float-label .required-input::before {
+    content: '*';
+    transform: scale(1.4);
+    color: #B00020;;
+    opacity: 0.65;
+    position: absolute;
+    top: 12px;
+    left: 2px;
+    font-weight: 900;
+    z-index: 9;
+    font-size: 12px;
+}
+
+.custom-error-container .v-messages {
+    opacity: 1;
+    min-height: 14px;
+    min-width: 1px
+}

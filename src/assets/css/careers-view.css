@@ -1,0 +1,7 @@
+.break-text {
+    white-space: pre-line;
+}
+
+ol.list-custom {
+  padding-left: 40px;
+}

@@ -1,0 +1,32 @@
+ [
+    {
+        "value": "cn",
+        "img": "flag-cn.png",
+        "title": "繁體中文"
+    }, 
+    {
+        "value": "bm",
+        "img": "flag-my.png",
+        "title": "Malaysia/English"
+    }, 
+    {
+        "value": "th",
+        "img": "flag-th.png",
+        "title": "ภาษาไทย"
+    }, 
+    {
+        "value": "id",
+        "img": "flag-id.png",
+        "title": "Bhs Indonesia"
+    }, 
+    {
+        "value": "vn",
+        "img": "flag-vn.png",
+        "title": "Tiếng Việt"
+    }, 
+    {
+        "value": "en",
+        "img": "flag-ph.png",
+        "title": "Filipino/English"
+    }
+]

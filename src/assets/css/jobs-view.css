@@ -1,0 +1,17 @@
+.highlight {
+    position: relative;
+    font-size: 13px;
+    font-weight: 700;
+    color: #606060;
+    margin-bottom: 12px;
+    display: block;
+    white-space: pre-line;
+}
+
+ol.list-custom {
+    padding-left: 40px;
+}
+
+.break-text {
+    white-space: pre-line;
+}

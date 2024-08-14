@@ -1,0 +1,81 @@
+{   
+    "sources": ["Social Media", "JobStreet", "Indeed", "LinkedIn", "Referral", "Advertisement", "Other"],
+    "notice_period": [
+         "No notice required", "One week notice","Two weeks notice","One month notice","Three months notice","Negotiable notice"
+    ],
+    "gender": [
+        {
+            "title": "Male", 
+            "value": 1
+        }, 
+        {
+            "title": "Female", 
+            "value": 2
+        }  
+    ],
+    "nationality": [
+        "Angolan", 
+        "Australian",
+        "Brazilian",
+        "Bangladesh","Cambodian",
+        "Chinese",
+        "Filipino",
+        "Indian",
+        "Indonesian",
+        "Japanese",
+        "Korean",
+        "Malaysian",
+        "Nepalese",
+        "Singaporean",
+        "Taiwanese",
+        "Thai",
+        "Vietnamese" 
+    ],
+    "civil_status": [
+        {
+            "title": "Single", 
+            "value": 1
+        }, 
+        {
+            "title": "Married", 
+            "value": 2
+        }, 
+        {
+            "title": "Widowed", 
+            "value": 3
+        }, 
+        {
+            "title": "Separated", 
+            "value": 4}, 
+        {
+            "title": "Divorced", 
+            "value": 5
+        }
+    ],
+    "qualification_achieved": [
+        {
+            "title":"Primary Education/Elementary Graduate",
+            "value": 1
+        }, 
+        {
+            "title": "Secondary Education/High School/Senior High School Graduate",
+            "value": 2
+        }, 
+        {
+            "title":"Technical/Vocational/Associate Degree",
+            "value": 3
+        }, 
+        {
+            "title":"College Level/Undergraduate",
+            "value": 4
+        }, 
+        {
+            "title": "Bachelor's Degree",
+            "value": 5
+        }, 
+        {
+            "title": "Post Graduate/Master's Degree/Doctorate Degree",
+            "value": 6 
+        }
+    ]
+}

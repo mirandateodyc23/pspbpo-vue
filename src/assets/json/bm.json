@@ -1,0 +1,2078 @@
+{
+    "title": {
+        "home": "Pacific Sea BPO Services, Ltd.",
+        "company_profile": "Company Profile | Pacific Sea BPO Services, Ltd.",
+        "careers": "Careers | Pacific Sea BPO Services, Ltd.",
+        "faq": "FAQS | Pacific Sea BPO Services, Ltd.",
+        "terms": "Terms of Use | Pacific Sea BPO Services, Ltd.",
+        "privacy_policy": "Privacy Policy | Pacific Sea BPO Services, Ltd.",
+        "resume": "Application | Pacific Sea BPO Services, Ltd."
+    },
+    "home": {
+        "navbar_title": "Home",
+        "slider_section": {
+            "title": ["PACIFIC SEA", "BPO Services, Inc."],
+            "description": ["A spot for the creative thinkers, strategists", "and career-driven professionals"]
+        },
+        "welcome_section": {
+            "title": "WHAT WE DO",
+            "descriptions": [
+                "Pacific Sea BPO Services (PSP) is a top-notched provider of services that involve online marketing and customer support.",
+                "We are committed not only in delivering superb customer experience. We also want our employees to enjoy rewarding moments with us.",
+                "<em>Because experience matters.</em>"
+            ]
+        },
+        "company_profile": {
+            "title": "<em>Company <span class=\"highlight-color\">Profile</span></em>",
+            "description": "Established in 2009, Pacific Sea BPO rapidly grew into one of the biggest main players in the BPO industry. Pacific Sea’s pillars of success are fully articulated below",
+            "readmore": "READ MORE",
+            "vision": {
+                "title": "VISION",
+                "description": "Provide an unmatched experience to our customers by strategically utilizing our expertise as one of the industry's pioneers."
+            },
+            "mission": {
+                "title": "MISSION",
+                "description": "Deliver exceptional services by exceeding expectations in all aspects including technology, services and people"
+            },
+            "core_values": {
+                "title": "CORE VALUES",
+                "description": "The core values of Pacific Sea are derived from the synergy of the diverse cultures and nationalities that make up the company and guide the direction and decisions of the company"
+            }
+        },
+        "careers_section": {
+            "title": "<em><span class=\"highlight-color\">Careers</span></em>",
+            "title_sub": "Great opportunity awaits!",
+            "join_us": "Join Us"
+        },
+        "perks_section": {
+            "title": "Perks",
+            "description": "We love to give rewards. Take a peek at what our employees enjoy!",
+            "contents": [
+                {
+                    "title": "BONUSES & INCENTIVES",
+                    "description": "Cash incentives and performance bonuses await those who excel in their craft!",
+                    "img": "bonuses.jpg"
+                },
+                {
+                    "title": "COMPANY TRAVEL",
+                    "description": "Prepare your passport. The company provides all-expense-paid trips to known destinations!",
+                    "img": "company_trip.jpg"
+                },
+                {
+                    "title": "RECREATIONS",
+                    "description": "Sports fests, fun runs, spas and more! We all need to relax at times!",
+                    "img": "recreations.jpg"
+                },
+                {
+                    "title": "TRAININGS",
+                    "description": "Learning is a continuous process and here at Pacific Sea, we give time in learning new things.",
+                    "img": "trainings.jpg"
+                }
+            ]
+        },
+        "outreach_section": {
+            "title": "<em><span class=\"highlight-color\">OUTREACH</span> PROGRAMS</em>",
+            "description": "We always believe in giving back and observe utmost generosity, not only to our employees, but also to our community.",
+            "contents": [
+                {
+                    "title": "RESCUE THAILAND",
+                    "description": "Donations were given to Thai Red Cross Society to aid victims of the devastating 2011 flood.",
+                    "img": "outreach1.jpg"
+                },
+                {
+                    "title": "OPERATION YOLANDA",
+                    "description": "Cash assistance were delivered to victims of super typhoon, Yolanda",
+                    "img": "outreach3.jpg"
+                },
+                {
+                    "title": "PROJECT HABAGAT",
+                    "description": "Financial assistance were given to employees who were heavily affected by torrential rains and flood.",
+                    "img": "outreach2.jpg"
+                }
+            ]
+        }
+    },
+    "company_profile": {
+        "navbar_title": "Company Profile",
+        "header": "<em>Company <span class=\"highlight-color\">Profile</span></em>",
+        "descriptions": [
+            "Established in 2009, Pacific Sea BPO Services Inc. rapidly transformed into one of the leading BPO companies.",
+            "Known for its culture of excellence, diversity and career growth opportunities.",
+            "Powered by its pool of talented and experienced work force, the company continues to expand its operations and deliver top-notched products and services."
+        ],
+        "body": {
+            "title": " Living in Makati",
+            "descriptions": [
+                "Makati is one of the most progressive business districts in the Philippines. Majority of the multinational companies and renowned financial hubs are located in the area.",
+                "Aside from its towering skyscrapers and scenic skyline, Makati is also a home to different embassies that cater to different nationalities. It is an expat’s haven.",
+                "The city is also a famous cultural hub. Different museums and galleries, which showcase world-class craftsmanship and artistry are also present.",
+                "At night, Makati transforms into an iconic hangout place for everyone. The area beams with different colors from cozy cafes, fine dining restaurants and posh bars.",
+                "For notorious shopaholics, there is no doubt that Makati is the place to be. It is just a 15-minute ride away from the 12th largest shopping mall in the world, SM Mall of Asia (MOA). Other than MOA, hotels, with great shops and finds can be also found in the place.",
+                "Convenient, safe, chic and highly industrialized, one can never go wrong in staying at Makati."
+            ]
+        },
+        "vision": {
+            "title": "VISION",
+            "descriptions": "Provide an unmatched experience to our customers by strategically utilizing our expertise as one of the industry's pioneers."
+        },
+        "mission": {
+            "title": "MISSION",
+            "descriptions": "Deliver exceptional services by exceeding expectations in all aspects including technology, services and people.",
+            "sub_descriptions": [
+                "Customers: Constantly deliver and surpass customer satisfaction expectations through diverse offerings and top-notch services.",
+                "Stakeholder: To establish a fair and rewarding environment that constantly seeks opportunities for the development of human capital, strengthening of organizational culture and promotion of respect and equality."
+            ]
+        },
+        "core_values": {
+            "title": "CORE VALUES",
+            "descriptions": "The core values of PSP are derived from the synergy of the diverse cultures and nationalities that make up the company and guide the direction and decisions of the company",
+            "sub_descriptions": [
+                "<strong>EXCELLENCE:</strong> We always raise the bar higher. We constantly push ourselves to the limit. Excellence is a continuous endeavor, not a set goal.",
+                "<strong>PASSION:</strong> We work in a multi-cultural environment and thus recognize the value and worth of a person regardless of their cultural background, values, beliefs and traditions.",
+                "<strong>INNOVATION:</strong> We continuously research and identify new innovative ideas that would bring more benefits to our customers, employees and stakeholders alike.",
+                "<strong>CUSTOMER-CENTRIC:</strong> Customer service is at the heart of everything we do. We see to it that we continuously meet and exceed the needs of our customers.",
+                "<strong>UNITY:</strong> There is no \"I\" in a team. Individual skills can only do so much. But together, we are invincible.",
+                "<strong>LEADERSHIP:</strong> We go beyond managing people. We are role models who motivate, inspire and lead them to paths of success."
+            ]
+        }
+    },
+    "careers": {
+        "navbar_title": "Careers",
+        "title": "<em>Career <span class='highlight-color'>Opportunities</span></em>",
+        "description": "Since its establishment in 2009, Pacific Sea BPO Services (PSP) transformed into one of the biggest business process outsourcing companies that deliver top-notched services in marketing, customer support and emerging technologies.",
+        "benefits": {
+            "title": "BENEFITS",
+            "contents": [
+                {
+                    "category": "Expat",
+                    "benefits": [
+                        "First air ticket to the Philippines reimbursed fully by the Company",
+                        "FREE accommodation in Makati City with daily housemaid to clean the condo unit and wash your clothes (also includes utility bills and Wi-Fi paid for by the Company)",
+                        "Daily transport to and from the office",
+                        "Taxes will be absorbed by the Company",
+                        "THIRTY (30) days Annual Leave",
+                        "Probation Increment",
+                        "Bonus payout twice a year",
+                        "Exciting Company Events including our Luxurious Annual Dinner and Overseas Company Trips",
+                        "Annual festival Celebrations and gifts",
+                        "Life, Accidental and Medical Insurance Coverage",
+                        "Gym Memberships",
+                        "Medicine Reimbursement"
+                    ]
+                },
+                {
+                    "category": "Local",
+                    "benefits": [
+                        "FREE in company self-improvement courses",
+                        "Paid Annual Leave",
+                        "Probation Increment",
+                        "Bonus payout twice a year",
+                        "Life, Accidental and Medical Insurance Coverage",
+                        "Exciting Company Events including our Luxurious Annual Dinner and Overseas Company Trips",
+                        "Annual festival celebrations and gifts",
+                        "Gym Memberships",
+                        "Medicine Reimbursement"
+                    ]
+                }
+            ]
+        }
+    },
+    "jobs": {
+        "apply_now": "APPLY NOW",
+        "title": "JOB <span class='highlight-color'>POSITIONS</span>",
+        "contents": [
+            {
+                "category": "LOCAL",
+                "job_lists": [
+                    {
+                        "id": "27",
+                        "dept_no": "17",
+                        "dept": "IT",
+                        "title": "IT Support Assistant",
+                        "market": "Filipino",
+                        "slug": "it-support-assistant-local",
+                        "responsibilities": [
+                            "Performs first level of desktops, notebooks, printers, scanners and other PC hardware support",
+                            "Perform software & hardware installations",
+                            "Installation & configuration of a company's computer hardware operating systems and applications",
+                            "Maintenance and monitoring of computer networks and systems",
+                            "Diagnosing and solving hardware or software faults",
+                            "Offer daily operations and systems support to personnel",
+                            "Troubleshoot hardware and software issues in person, remotely and/or via phone",
+                            "Performs tasks issued by IT Team Leader and IT Administrator",
+                            "Maintaining IT Office",
+                            "PSP NOC monitoring",
+                            "Perform network troubleshooting"
+                        ],
+                        "requirements": [
+                            "At least 3 years of working experience in Desktop support role",
+                            "Performs first level of user support",
+                            "Basic network knowledge",
+                            "Good knowledge on Windows 7 and 10 operating systems",
+                            "Proficient knowledge on Microsoft Office 2010, 2013, Office 365 and Open Office",
+                            "Excellent in oral and written English, interpersonal, organizational and presentation skills",
+                            "Can multitask and work even under pressure",
+                            "Knowledge hungry and have willing to learn attitude",
+                            "Customer-oriented, able to work in a dynamic and fast paced environment",
+                            "Good knowledge in computer hardware (desktop and laptop)",
+                            "Directly reports to IT Team Leader and IT Administrator"
+                        ],
+                        "other_requirements": [
+                            "IT Software and Hardware Experience",
+                            "Good analytical in problem solving skills",
+                            "Customer Care Oriented",
+                            "Proactive in providing Technical Support"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in IT or any other related field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (CSA)",
+                        "slug": "customer-service-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Handles all members' queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member",
+                            "Promotes products and provide quality services to achieve market dominance;",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor members reactions and competitors activities through daily/weekly reports and submit to immediate superior;",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process"
+                        ],
+                        "requirements": [
+                            "Conversational English skills is needed",
+                            "Must be open to work in shifting schedule",
+                            "Must be computer literate",
+                            "Pleasant personality and service oriented",
+                            "Able to handle demanding customers professionally",
+                            "Able to handle work pressure",
+                            "Ability to understand and communicate in other languages will be advantageous"
+                        ],
+                        "skill_requirements": [
+                            "Typing speed 30 wpm above",
+                            "English (speaking, reading, typing)"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in any field"
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant - (Korean Speaking)",
+                        "slug": "customer-service-assistant-korean-speaking-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member",
+                            "Promotes products and provide quality services to achieve market dominance;",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor members reactions and competitors activities through daily/weekly reports and submit to immediate superior;",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process"
+                        ],
+                        "requirements": [
+                            "Must have at least NC2 Certificate of  Korean Language",
+                            "At least 1 - 2 years’ experience in customer service in any field",
+                            "Must be open to work in shifting schedule",
+                            "Conversational English skill is needed and fluent in Korean language both written and spoken",
+                            "Ability to understand and communicate in other languages will be advantageous",
+                            "Must be Computer Literate",
+                            "Pleasant personality and service oriented",
+                            "Able to handle demanding customers professionally",
+                            "Able to handle work pressure"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in any field"
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant - (Japanese Speaking)",
+                        "slug": "customer-service-assistant-japanese-speaking-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member",
+                            "Promotes products and provide quality services to achieve market dominance;",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor members reactions and competitors activities through daily/weekly reports and submit to immediate superior;",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process"
+                        ],
+                        "requirements": [
+                            "Must have at least NC2 Certificate of Japanese Language",
+                            "At least 1 - 2 years’ experience in customer service in any field",
+                            "Must be open to work in shifting schedule",
+                            "Conversational English skill is needed and fluent in Japanese language both written and spoken",
+                            "Ability to understand and communicate in other languages will be advantageous",
+                            "Must be Computer Literate",
+                            "Pleasant personality and service oriented",
+                            "Able to handle demanding customers professionally",
+                            "Able to handle work pressure"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in any field"
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant - (Portuguese Speaking)",
+                        "slug": "customer-service-assistant-portuguese-speaking-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member",
+                            "Promotes products and provide quality services to achieve market dominance;",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor members reactions and competitors activities through daily/weekly reports and submit to immediate superior;",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process"
+                        ],
+                        "requirements": [
+                            "Must be open to work in shifting schedule",
+                            "Conversational English skill is needed and fluent in Portuguese language both written and spoken",
+                            "Ability to understand and communicate in other languages will be advantageous",
+                            "Must be Computer Literate",
+                            "Pleasant personality and service oriented",
+                            "Able to handle demanding customers professionally",
+                            "Able to handle work pressure"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in any field"
+                        ]
+                    },
+                    {
+                        "id": "44",
+                        "dept_no": "25",
+                        "dept": "RISK",
+                        "title": "Risk Management Assistant",
+                        "slug": "risk-management-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Conduct monthly reconciliation of data from internal or external resources",
+                            "Implement the strategy, by compiling spreadsheets or data and other related information",
+                            "Generate using computer programs to evaluate member's transaction status",
+                            "Compose reports and slide presentations that outline the findings and know how to recommend changes",
+                            "Support other units in ensuring operations risks are minimized"
+                        ],
+                        "requirements": [
+                            "Must be open to work in shifting schedule",
+                            "Strong Analytical and organizational skills",
+                            "Highly motivated and keen to work in figures",
+                            "Be able to multi task in a fast-paced environment",
+                            "Ability to cope under pressure"
+                        ],
+                        "skill_requirements": [
+                            "Knowledgeable with Excel and Power Point (VBA & SQL experience is a plus)"
+                        ],
+                        "educational_background": [
+                            "Candidate must be a graduate of Bachelor's Degree in Applied Mathematics,  Actuarial Science / Applied Statistics or Equivalent (Business courses are also considered)",
+                            "Fresh Graduates are encouraged to Apply"
+                        ]
+                    },
+                    {
+                        "id": "50",
+                        "dept_no": "23",
+                        "dept": "Finance",
+                        "title": "Finance Settlement Assistant - Reporting",
+                        "slug": "finance-settlement-local-reporting",
+                        "market": "Filipino",
+                        "job_summary": "Reports directly to the Team Leader and Supervisor. Assigned as front liner personnel of the operations on handling bank transaction of the clients. Monitors and records the incoming and outgoing funds to the tracker on daily basis. ",
+                        "responsibilities": [
+                            "Responsible in processing Client/Member’s Transactions accurately, in a timely manner and  in compliance with department’s policy. ",
+                            "Perform and process first level of verification on all Member's proceeds.",
+                            "Conduct daily reconciliation on all Member's proceeds.",
+                            "Submit reconciliations on a timely basis to meet the corporate standard recon",
+                            "Attend to customers queries on all Member's Proceeds  related matters.",
+                            "Handle emergencies manpower shortage on special occasions.",
+                            "Perform other ad-hoc duties as and when assigned."
+                        ],
+                        "requirements": [
+                            "Graduated or with Diploma/Bachelor's in Finance/Accountancy/ Commerce/ Business Administration/ Marketing or its equivalent.",
+                            "1-2 Yrs. experienced employees specializing in Finance - General/Cost Accounting/Finance/E-commerce/ Credit Card Merchant background.",
+                            "Computer literate. With above average Microsoft Excel knowledge and skills.",
+                            "Good oral and written communication",
+                            "Must be dedicated and committed in his/her work, must be a team player, can work with minimum supervision."
+                        ]
+                    },
+                    {
+                        "id": "49",
+                        "dept_no": "23",
+                        "dept": "Finance",
+                        "title": "Finance Settlement Assistant - Operations",
+                        "slug": "finance-settlement-local-operations",
+                        "market": "Filipino",
+                        "job_summary": "Reports directly to the Team Leader and Supervisor. Assigned as front liner personnel of the operations on handling bank transaction of the clients. Monitors and records the incoming and outgoing funds to the tracker on daily basis. ",
+                        "responsibilities": [
+                            "Responsible in processing Client/Member’s Transactions accurately, in a timely manner and  in compliance with department’s policy. ",
+                            "Perform and process first level of verification on all Member's proceeds.",
+                            "Conduct daily reconciliation on all Member's proceeds.",
+                            "Submit reconciliations on a timely basis to meet the corporate standard recon",
+                            "Attend to customers queries on all Member's Proceeds  related matters.",
+                            "Handle emergencies manpower shortage on special occasions.",
+                            "Perform other ad-hoc duties as and when assigned."
+                        ],
+                        "requirements": [
+                            "Graduated or with Diploma/Bachelor's in Finance/Accountancy/ Commerce/ Business Administration/ Marketing or its equivalent.",
+                            "1-2 Yrs. experienced employees specializing in Finance - General/Cost Accounting/Finance/E-commerce/ Credit Card Merchant background.",
+                            "Computer literate. With above average Microsoft Excel knowledge and skills.",
+                            "Good oral and written communication",
+                            "Must be dedicated and committed in his/her work, must be a team player, can work with minimum supervision."
+                        ]
+                    },
+                    {
+                        "id": "68",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Paid Media Specialist",
+                        "slug": "paid-media-specialist-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Design, Execute, and Maintain ROI-Focused Pay Per Click/Display campaigns",
+                            "Manage paid search campaigns across multiple markets and ensure program specific coverage and ROI goals are being met.",
+                            "Conduct Thorough Keyword Analysis",
+                            "Continually optimize PPC & Paid Social campaign components including keyword strategy, ad copy, bid prices, cost per conversion, cost per click, audience optimization, etc.",
+                            "Provide ongoing actionable insights into campaign performance to relevant team",
+                            "Define, measure, and evaluate relevant paid media KPIs",
+                            "Compile monthly PPC Reports with personal comments and analysis of campaign performance",
+                            "Build out media buys for various ad platforms and oversee the day-to-day execution of paid media",
+                            "Oversee and manage overall paid media budget",
+                            "Set up Conversion Tracking & Retargeting Pixels",
+                            "Conduct in-depth keyword and website research, ad grouping and audience targeting",
+                            "Maintain knowledge of industry best practices and new technologies",
+                            "Experience with Programmatic Advertising considered a plus."
+                        ],
+                        "requirements": [
+                            "Minimum 3 years of experience in Paid Media/Digital Marketing.",
+                            "Passionate about marketing and search marketing.",
+                            "Solid understanding of multiple digital channels and how they work together (SEM, SEO, CRO, Social, Display, etc.)",
+                            "Google Ads Certified, Google Analytics Certified not required, but a plus",
+                            "Master with Excel and Google Sheets to create and maintain dashboards and provide ad hoc analysis. Comfortable with sumifs ,countifs, vlookup, pivot tablets, etc.",
+                            "Data and web metrics analytical skills.",
+                            "Excellent verbal & written communication skills in English ",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Highly organized and must be able to multi-task, handling several tasks/projects at one time",
+                            "Ability to multi-task and manage time efficiently to deliver campaigns under deadlines",
+                            "Ability to work collaboratively and be an integral part of an overall team environment"
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22 ",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant",
+                        "slug": "seo-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages",
+                            "Keyword research and Analytics analysis",
+                            "Building quality natural backlinks from different reputable sources",
+                            "Develop and implement link building strategy",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific",
+                            "Assist in the development and execution of communication/content strategies via social communities in coordination with SEO goals",
+                            "Monitor and administer web analytics dashboards, reports, and key reporting tools, and point out key areas of importance in accordance with goals",
+                            "Monitor and evaluate search results and search performance across the major search channels",
+                            "Research the latest SEO practices",
+                            "Optimize landing page",
+                            "Perform ongoing keyword discovery, expansion, and optimization",
+                            "Work closely with the other team members to meet goals"
+                        ],
+                        "requirements": [
+                            "English language speaking is required.",
+                            "With at least 1 year of experience as an SEO Associate",
+                            "SEO/Digital trainings and certifications is a plus",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as an internal reporting tool",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc)",
+                            "Knowledge skills related to CMS (WordPress, Blogger, etc..)",
+                            "Social Media trends (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Must be willing to work in Makati City, Philippines."
+                        ]
+                    },
+                    {
+                        "id": "62",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Executive",
+                        "slug": "seo-executive-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages",
+                            "Keyword research and Analytics analysis",
+                            "Building quality natural backlinks from different sources",
+                            "Develop and implement link building strategy",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels",
+                            "Research the latest SEO practices",
+                            "Coordinate and support team",
+                            "Optimize landing page",
+                            "Perform ongoing keyword discovery, expansion and optimization",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords",
+                            "Work closely with the other team members to meet goals",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill"
+                        ],
+                        "requirements": [
+                            "Minimum 5 years SEO experience, SEM experience (additional), 3 years as SEO supervisor/Executive/Manager.",
+                            "Conversational English is required",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc)",
+                            "Basic HTML/CSS knowledge",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc..)",
+                            "Social Media trend (Facebook, Twitter, Instagram, and YouTube)",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivated.",
+                            "Applicant must be willing to work and relocate in Makati City, Philippines."
+                        ]
+                    },
+                    {
+                        "id": "69",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Content Writer Assistant",
+                        "slug": "seo-content-writer-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Collaborating with the SEO team to develop content strategies",
+                            "Write and optimizes content",
+                            "Suggesting topics based on an assessment of search demand, search trends, competition, attainability, and piquancy",
+                            "Push target keywords to work with your content",
+                            "Pitches daily news initiatives that help support Google news, specific areas aiming to rank on SERP",
+                            "Pick trend topic turn it into content that related to business",
+                            "Optimizes print content for SEO"
+                        ],
+                        "requirements": [
+                            "Graduated of Bachelor's/College Degree",
+                            "Required Language(s): English - Intermediate level",
+                            "Experience in writing SEO-friendly website content",
+                            "Basic knowledge of website language (HTML, CSS and Javascript)",
+                            "Basic knowledge of CMS (Content Management System)",
+                            "Basic Google Analytics/Search Console knowledge",
+                            "Social media",
+                            "SEO content architecture",
+                            "Keyword/Trend discover tools",
+                            "Trend research",
+                            "Content Management System",
+                            "Marketing analysis or quantitative research",
+                            "Casino operational experience and / or E-gaming operational experience are preferred",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Amenable to work in Makati"
+                        ]
+                    },
+                    {
+                        "id": "32",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Social Media Marketing Assistant",
+                        "slug": "social-media-marketing-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Coordinate with Digital Marketing teams to support news and update releases on the clients social media platforms",
+                            "Prepare weekly and monthly content calendar with fair coverage of promotional offers, sports news and Casino content.",
+                            "Keep up-to-date with Industry trend & benchmark figures and official policies and updates released by each social platform.",
+                            "Competitor research on iGaming companies.",
+                            "Provide weekly data/analytic reports pertaining to all social media platform performance.",
+                            "Propose new ideas that are in line with the objectives of the social handles.",
+                            "Create & run ad campaigns across Facebook, Instagram & other social platforms",
+                            "Responsible for reviewing, tracking, & improvising on various metrics such as social performance/engagement, audience measurement, conversion, sales generation, acquisition, etc.",
+                            "Monitor, track and, engage across all social touch points to ensure that other internal departments are aware of the social analytic and can prepare or provide guidance on customer responses."
+                        ],
+                        "requirements": [
+                            "Minimum 1.5-2 years of experience in Social Media Marketing.",
+                            "(Facebook, Instagram, Pinterest, Twitter, LinkedIn, Tiktok, reddit, giphy, etc).",
+                            "Through knowledge on Ads & Paid Marketing across Facebook.",
+                            "Knowledge of Ads on other social media platforms is an added advantage but not mandatory",
+                            "Excellent verbal & written communication skills in English",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Highly organized with strong project management skills and proven ability to take projects from concept development to production",
+                            "Ability to multi-task and manage time efficiently to deliver campaigns under deadlines",
+                            "Ability to work collaboratively and be an integral part of an overall team environment"
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant",
+                        "slug": "marketing-assistant-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Compile and process day to day translations from each Market.",
+                            "Compiling and documenting updates to Marketing Portal.",
+                            "Assisting on the execution of promotional activities.",
+                            "Assisting on Forums & other Social Media campaigns that are alignment with the marketing strategy.",
+                            "Assisting to maintain website content, monitor links and UX.",
+                            "Create English content for Marketing promotions and forum, social media campaigns.",
+                            "Proof Read initial EN content provided by Marketing."
+                        ],
+                        "requirements": [
+                            "Minimum 1.5-2 years of experience in Social Media Marketing.",
+                            "(Facebook, Instagram, Pinterest, Twitter, LinkedIn, Tiktok, reddit, giphy, etc).",
+                            "Through knowledge on Ads & Paid Marketing across Facebook.",
+                            "Knowledge of Ads on other social media platforms is an added advantage but not mandatory",
+                            "Excellent verbal & written communication skills in English",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Highly organized with strong project management skills and proven ability to take projects from concept development to production"
+                        ]
+                    },
+                    {
+                        "id": "20",
+                        "dept_no": "20",
+                        "dept": "Designer",
+                        "title": "Sr. Web Graphic Designer",
+                        "slug": "sr-web-graphic-desiner-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Conceptualize and produce online and offline collateral for marketing and sales, including original campaigns, direct mail, brochures, print and banner ads, product sheets, PowerPoint presentations and more",
+                            "Identify fresh and innovative design solutions that push the boundaries of the client brand and explore more effective formats and/or media channels.",
+                            "Implements strong brand identity and guidelines for maintaining brand consistency throughout all marketing projects",
+                            "Create execution plans for projects and see them through to completion",
+                            "Produce different style guides, presentations, and project visualization for the creatives team",
+                            "Serves as the lead of the design team, ensuring quality work from the creatives team.",
+                            "Review junior designers’ work to ensure high quality",
+                            "Assist the team members to choose the right style, graphics, images, and other visual elements according to the project.",
+                            "Refine images, fonts and layouts using graphic design software",
+                            "Generate ideas to portray concepts and advertise products/services",
+                            "Maintain brand consistency throughout all marketing projects",
+                            "Maintain records of graphic designs created and implemented",
+                            "Liaise with marketing and design teams to ensure deadlines are met",
+                            "Coordinate between marketing and design teams to ensure a smooth flow of work",
+                            "Tracks and reports to the team and give feedback to ensure effectiveness in work",
+                            "Keep up to date with trends across e-commerce, social media, graphic design, photography and video — propose new ideas and share this insight with the team."
+                        ],
+                        "requirements": [
+                            "Graduated of Bachelor's/College Degree, Advertising/Media, Art/Design/Creative Multimedia or equivalent.",
+                            "Experienced on design, layout work and web designs, online and offline media advertising banners and templates.",
+                            "Solid understanding of how to create powerful, interactive and appealing designs for banner advertising, media contents; emails including products that can strongly project our best-selling points to the public.",
+                            "Good knowledge of current web-design trends and techniques, a strong online portfolio displaying UCD and UED designs and working experience with web database solutions.",
+                            "Knowledge and practical applications of XHTML, CSS, Ajax and of digital imaging and illustration with Adobe Photoshop, Quark Xpress, Illustrator, 3D Studio, Acrobat, Director, Dreamweaver and Flash.",
+                            "Possess great attitude –positive, energetic, driven individual who is assiduous about perfection with a never-quit attitude and possess openness to feedback, seeks to understand other points of view, and respond constructively to feedback."
+                        ]
+                    },
+                    {
+                        "id": "23",
+                        "dept_no": "24",
+                        "dept": "HR",
+                        "title": "Company Nurse",
+                        "slug": "company-nurse-local",
+                        "market": "Filipino",
+                        "responsibilities": [
+                            "Handles the MC verification; screen if it is legit by verifying with the clinic.",
+                            "Participate in all other programs/tasks/projects of Health and Safety Committee.",
+                            "Participate in other programs related to Company's Employee Health and Wellness Program.",
+                            "Attend to emergency cases (during HR Office hours) such as",
+                            "To perform other task assigned from time to time."
+                        ],
+                        "sub_responsibilities" : {
+                            "3": [
+                                "If a staff is not feeling well and need first aid assistance.",
+                                "If a staff is not feeling well and needs to be immediately send to the nearest Avega Accredited Hospitalization (Makati Medical City, Saint Luke's hospital)."
+                            ]
+                        },
+                        "requirements": [
+                            "Candidate must possess at least a Bachelor's/College Degree in Nursing",
+                            "Open for FRESH GRADUATE with RN License ",
+                            "Preferred with ONAP certificate",
+                            "Intravenous Certification (is a plus)",
+                            "Preferably with an Occupational Safety and Hazard Training (BOSH) certificate"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": "EXPAT",
+                "job_lists": [
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant",
+                        "slug": "marketing-assistant-expat",
+                        "is_general": true,
+                        "market": "Bangladeshi,Cambodian,Indonesian,Japanese,Korean,Malaysian/Taiwanese/Chinese (Mandarin Speaking),Brazil/Angolan/Portugal (Portuguese Speaking),Thai,Vietnamese",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Bangladeshi)",
+                        "slug": "marketing-assistant-bangladeshi-expat",
+                        "market": "Bangladeshi",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Cambodian)",
+                        "slug": "marketing-assistant-cambodian-expat",
+                        "market": "Cambodian",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Indonesian)",
+                        "slug": "marketing-assistant-indonesian-expat",
+                        "market": "Indonesian",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Mandarin Speaking)",
+                        "slug": "marketing-assistant-mandarin-speaking-expat",
+                        "market": "Malaysian,Taiwanese,Chinese",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Japanese)",
+                        "slug": "marketing-assistant-japanese-expat",
+                        "market": "Japanese",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Korean)",
+                        "slug": "marketing-assistant-korean-expat",
+                        "market": "Korean",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Brazil)",
+                        "slug": "marketing-assistant-brazil-expat",
+                        "market": "Brazil/Angolan/Portugal (Portuguese Speaking)",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Daily language translation",
+                            "Maintaining website content",
+                            "Assist on the daily forum and other social media activities",
+                            "Proposing, developing and executing promotional ideas or strategies to optimize revenue streams in each channel"
+                        ],
+                        "qualifications": [
+                            "Applicant must be a native of their own language and fluent in English.",
+                            "Must have at least 1-2 years related work experience.",
+                            "Experience in E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable.",
+                            "E-Gaming operational experience is preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines.",
+                            "Has a project management and marketing planning skills.",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to Advertising experience is an asset.",
+                            "Willing to work and relocate in Makati City, Philippines (on-site)."
+                        ],
+                        "educational_background": [
+                            "At least a Bachelor/College Degree holder in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Portuguese Speaking)",
+                        "slug": "marketing-assistant-portuguese-speaking-expat",
+                        "market": "Any Expat Nationality",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of their own language and fluent in English",
+                            "Must have at least 1-2 years related work experience",
+                            "Experience in Casino and/or E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable",
+                            "Casino operational experience and/or E-Gaming operational experience are preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising)",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Has a project management and marketing planning skills.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "other_requirements": [
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to apply. Advertising experience is an asset."
+                        ],
+                        "educational_background": [
+                            "Graduate of Bachelor's/College Degree in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "65",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Thai)",
+                        "slug": "marketing-assistant-thai-expat",
+                        "market": "Thai",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of their own language and fluent in English",
+                            "Must have at least 3 - 5 years related work  experience in a Supervisory Level ",
+                            "Experience in Casino and / or E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable",
+                            "Casino operational experience and / or E-Gaming operational experience are preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising)",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Has a project management and marketing planning skills.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "other_requirements": [
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to apply. Advertising experience is an asset."
+                        ],
+                        "educational_background": [
+                            "Graduate of Bachelor's/College Degree in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "65",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Assistant (Vietnamese)",
+                        "slug": "marketing-assistant-vietnamese-expat",
+                        "market": "Vietnamese",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of their own language and fluent in English",
+                            "Must have at least 3 - 5 years related work  experience in a Supervisory Level ",
+                            "Experience in Casino and / or E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable",
+                            "Casino operational experience and / or E-Gaming operational experience are preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising)",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Has a project management and marketing planning skills.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "other_requirements": [
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to apply. Advertising experience is an asset."
+                        ],
+                        "educational_background": [
+                            "Graduate of Bachelor's/College Degree in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "65",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Marketing Executive (Mandarin Speaking)",
+                        "slug": "marketing-assistant-mandarin-speaking-expat",
+                        "market": "Malaysian, Taiwanese",
+                        "responsibilities": [
+                            "As a Marketing Assistant you will be assisting the Marketing Manager who is in charge of our multi-market marketing team. You will be responsible for marketing and promotional campaigns best suited for your market as well as measure the success of said campaign."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of their own language and fluent in English",
+                            "Must have at least 3 - 5 years related work  experience in a Supervisory Level ",
+                            "Experience in Casino and / or E-Gaming marketing across multiple mediums - Printed, press, TV, Online, Social networking highly desirable",
+                            "Casino operational experience and / or E-Gaming operational experience are preferred.",
+                            "Exposure to Affiliate campaign management (Online Advertising)",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Has a project management and marketing planning skills.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "other_requirements": [
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to apply. Advertising experience is an asset."
+                        ],
+                        "educational_background": [
+                            "Graduate of Bachelor's/College Degree in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant",
+                        "slug": "seo-assistant-expat",
+                        "is_general": true,
+                        "market": "Indonesian,Vietnamese,Japanese,Bangladeshi,Thai",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant (Indonesian)",
+                        "slug": "seo-assistant-indonesian-expat",
+                        "market": "Indonesian",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant (Vietnamese)",
+                        "slug": "seo-assistant-vietnamese-expat",
+                        "market": "Vietnamese",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant (Japanese)",
+                        "slug": "seo-assistant-japanese-expat",
+                        "market": "Japanese",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant (Bangladeshi)",
+                        "slug": "seo-assistant-bangladeshi-expat",
+                        "market": "Bangladeshi",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "34",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Assistant (Thai)",
+                        "slug": "seo-assistant-thai-expat",
+                        "market": "Thai",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 1-2 years of SEO experience, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "62",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "SEO Executive",
+                        "slug": "seo-executive-expat",
+                        "market": "Any Expat Nationality",
+                        "responsibilities": [
+                            "Driving traffic from numerous sources around the web.",
+                            "Provide SEO analysis and recommendations in coordination with elements and structure of websites and web pages.",
+                            "Keyword research and Analytics analysis.",
+                            "Building quality natural backlinks from different sources.",
+                            "Develop and implement link building strategy.",
+                            "Provide recommendations and execute strategies for content development in coordination with SEO goals – general and keyword specific.",
+                            "Assist in development and execution of communication/content strategies via social communities in coordination with SEO goals.",
+                            "Monitor and administer web analytics dashboards, reports and key reporting tools, and point out key areas of importance in accordance goals.",
+                            "Monitor and evaluate search results and search performance across the major search channels.",
+                            "Research the latest SEO practices.",
+                            "Coordinate and support team.",
+                            "Optimize landing page.",
+                            "Perform ongoing keyword discovery, expansion and optimization.",
+                            "Recommend changes to website architecture, content, linking and other factors to improve SEO positions for target keywords.",
+                            "Work closely with the other team members to meet goals.",
+                            "Develop or Optimize blog sites with SEO techniques or SEO content skill."
+                        ],
+                        "qualifications": [
+                            "Minimum 5 years of SEO experience handling supervisory role, SEM experience (additional)",
+                            "Must be native of ther own language and proficient in English both oral and written.",
+                            "Experience in E-gaming is a plus.",
+                            "Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tool.",
+                            "Experience in working with popular keyword tools (Google, SEO Power Suite, SEMRush, Ahrefs, etc).",
+                            "Basic HTML/CSS knowledge.",
+                            "Knowledge skills related with CMS (WordPress, Blogger, etc.).",
+                            "Social Media trend (Facebook, Twitter, Instagram, YouTube, and LinkedIn).",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Self-Motivation",
+                            "Must be willing to work full time (on-site) and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "At least a  Bachelor/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant",
+                        "is_general": true,
+                        "slug": "customer-service-assistant-expat",
+                        "market": "Bangladesh,Cambodian,Indonesian,Japanese,Korean,Indian,Malaysian/Chinese/Taiwanese (Mandarin Speaking),Brazil/Angolan/Portugal (Portuguese Speaking),Thai,Vietnamese",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of their own language and fluent in English",
+                            "Conversational English skills is needed",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented",
+                            "Able to handle demanding customers professionally",
+                            "Able to handle work pressure",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "Must possess at least a Bachelor’s/College Degree in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Vietnamese)",
+                        "slug": "customer-service-assistant-vietnamese-expat",
+                        "market": "Vietnamese",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Vietnamese Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "Must possess at least a Bachelor’s/College Degree in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Cambodian)",
+                        "slug": "customer-service-assistant-cambodian-expat",
+                        "market": "Cambodian",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Khmer Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Thai)",
+                        "slug": "customer-service-assistant-thai-expat",
+                        "market": "Thai",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Thai Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Indonesian)",
+                        "slug": "customer-service-assistant-indonesian-expat",
+                        "market": "Indonesian (Bahasa)",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Bahasa (Indonesian) Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Indian- Telugu Speaking)",
+                        "slug": "customer-service-assistant-indian-telugu-expat",
+                        "market": "Indian",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Telugu Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Indian- Kannada Speaking)",
+                        "slug": "customer-service-assistant-indian-kannada-expat",
+                        "market": "Indian",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Kannada Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Korean)",
+                        "slug": "customer-service-assistant-korean-expat",
+                        "market": "Korean",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Korean Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Japanese)",
+                        "slug": "customer-service-assistant-japanese-expat",
+                        "market": "Japanese",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Japanese Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Portuguese Speaking)",
+                        "slug": "customer-service-assistant-portuguese-speaking-expat",
+                        "market": "Brazilian,Angolan,Portuguese",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Portuguese Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Mandarin Speaking)",
+                        "slug": "customer-service-assistant-mandarin-speaking-expat",
+                        "market": "Malaysian,Taiwanese,Chinese",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Mandarin Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "15",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Assistant (Bangladeshi)",
+                        "slug": "customer-service-assistant-bangladeshi-expat",
+                        "market": "Bangladeshi",
+                        "responsibilities": [
+                            "Handles all members’ queries/complaints via Live Chat, social media and other company communication tools in the specific language market.",
+                            "Perform telemarketing or call to establish good relationship with existing and new member.",
+                            "Promotes products and provide quality services to achieve market dominance.",
+                            "Identify clients with specific needs and forward their concerns to the appropriate department, supervisor or manager.",
+                            "Monitor member’s reactions and competitors activities through daily/weekly reports and submit to immediate superior.",
+                            "Assist the marketing team to disseminate promotion information, persuade members to participate and encourage higher activities via live chats / phone or email communication process."
+                        ],
+                        "requirements": [
+                            "Applicant must be a native of Bengali Language.",
+                            "Conversational English skills is needed.",
+                            "Ability to understand and communicate in other languages will be advantageous.",
+                            "Must be computer literate.",
+                            "Positive attitude and Service Oriented.",
+                            "Able to handle demanding customers professionally.",
+                            "Able to handle work pressure.",
+                            "Must be open to work in shifting schedule.",
+                            "Willing to work and relocate in Makati City, Philippines.",
+                            "At least 1 - 2 years experience in customer service in any field is a plus but not required."
+                        ],
+                        "educational_background": [
+                            "At least a Senior High School graduate, college level/undergraduate, or Bachelor’s/College Degree holder in any field."
+                        ]
+                    },
+                    {
+                        "id": "64",
+                        "dept_no": "21",
+                        "dept": "CSD",
+                        "title": "Customer Service Manager",
+                        "slug": "customer-service-manager-expat",
+                        "market": "Any Expat Nationality",
+                        "job_highlight": "The Customer Service Manager will be responsible for setting and tracking metrics and goals for their team to ensure the highest levels of customer satisfaction. Key performance indicators (KPIs) should be established and regularly monitored. The Customer Experience Manager should work with their team to set achievable targets and develop action plans to improve performance. They will regularly review progress against metrics such as these, providing coaching and feedback to team members to improve performance and achieve goals.\nBy setting clear metrics and goals, the Customer Service Manager will be able to drive the team's performance, improve customer satisfaction, and positively impact the overall success of the company.",
+                        "responsibilities": [
+                            "Manage a team of customer service representatives and supervisors to ensure all customer needs are met in a timely manner and ensuring that every task is done correctly and effectively and make sure that all aspects of customer service are established well.",
+                            "Manage customer inquiries and complaints, providing prompt and effective resolution to maintain high levels of customer satisfaction.",
+                            "Responsible for helping in the development and execution of training programs for customer service representatives.",
+                            "Serve as the point of escalation, having strong knowledge of our company's services in order to provide prompt recommendations and assistance.",
+                            "Monitor customer feedback and identify areas for improvement in the customer service experience.",
+                            "Collaborate with operations and marketing, to improve the overall customer experience.",
+                            "Develop and implement customer service policies and procedures to ensure consistency and efficiency.",
+                            "Maintain accurate records of customer interactions and communicate key insights to the leadership team to inform business decisions.",
+                            "Monitor industry trends and best practices in customer service to continuously improve our customer experience strategies and processes.",
+                            "Trains and develops staff to promote a career development and talent succession within the company.",
+                            "Plan, coordinate and assign daily workload to customer service team.",
+                            "Implements company policies and procedures in the team and ensure necessary compliance.",
+                            "Other duties as assigned by the Upper Management Team."
+                        ],
+                        "requirements": [
+                            "With 5+ years of working experience in customer service, team management, and operations in a BPO or Online Gaming/Casino industry.",
+                            "Excellent communication skills in English, both written and verbal, with the ability to communicate effectively with customers and internal stakeholders",
+                            "Ability to work productively, efficiently & effectively with initiative and drive under pressure whilst maintaining attention to detail and quality.",
+                            "Ability to quickly accept and execute new changes",
+                            "Strong leadership skills have initiative and know how to handle people with different and strong interpersonal skills.",
+                            "Ability to work in a fast-paced, dynamic environment, managing multiple priorities and stakeholders simultaneously",
+                            "Must also have outstanding skills in analysis, logic and math.",
+                            "Foreign nationalities fluent in Mandarin, both oral and written is required for the position.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "educational_background": [
+                            "Graduate of Bachelor's/ Master's Degree in Business Administration or any related field. "
+                        ]
+                    },
+                    {
+                        "id": "44",
+                        "dept_no": "25",
+                        "dept": "RISK",
+                        "title": "Risk Management Assistant",
+                        "slug": "risk-management-assistant-expat",
+                        "market": "Thai,Vietnamese,Indonesian",
+                        "responsibilities": [
+                            "Conducting monthly reconciliation of data from internal or external resources.",
+                            "Conduct statistical analysis to quantify risk, using statistical analysis software and econometric models.",
+                            "Monitor or analyze member's data and statements to determine the degree of risk involved.",
+                            "Implement the strategy, by compiling spreadsheets or data and other related information.",
+                            "Generate using computer programs to evaluate member's transaction status",
+                            "Compose reports and slide presentations that outline the findings and know how to recommend changes.",
+                            "Support other units in ensuring operations risks are minimized"
+                        ],
+                        "requirements": [
+                            "Knowledgeable with Excel and Power Point (VBA and SQL experience is a plus).",
+                            "Strong Analytical and organizational skills.",
+                            "Highly motivated and keen to work in figures.",
+                            "Be able to multi task in a face-paced environment.",
+                            "Ability to cope under pressure.",
+                            "Must be open to work in shifting schedule",
+                            "Willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "other_requirements": [
+                            "Knowledgeable with Excel and Power Point (VBA and SQL experience is a plus)."
+                        ],
+                        "educational_background": [
+                            "Candidate must possess at least Bachelor Degree / College Degree in Applied Mathematics, Actuarial Science / Applied Statistics or Equivalent (Business courses are also considered)."
+                        ]
+                    },
+                    {
+                        "id": "68",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Paid Media Specialist",
+                        "slug": "paid-media-specialist-expat",
+                        "market": "Any Expat Nationality",
+                        "responsibilities": [
+                            "Design, Execute, and Maintain ROI-Focused Pay Per Click/Display campaigns",
+                            "Manage paid search campaigns across multiple markets and ensure program specific coverage and ROI goals are being met.",
+                            "Conduct Thorough Keyword Analysis",
+                            "Continually optimize PPC & Paid Social campaign components including keyword strategy, ad copy, bid prices, cost per conversion, cost per click, audience optimization, etc.",
+                            "Provide ongoing actionable insights into campaign performance to relevant team",
+                            "Define, measure, and evaluate relevant paid media KPIs",
+                            "Compile monthly PPC Reports with personal comments and analysis of campaign performance",
+                            "Build out media buys for various ad platforms and oversee the day-to-day execution of paid media",
+                            "Oversee and manage overall paid media budget",
+                            "Set up Conversion Tracking & Retargeting Pixels",
+                            "Conduct in-depth keyword and website research, ad grouping and audience targeting",
+                            "Maintain knowledge of industry best practices and new technologies",
+                            "Experience with Programmatic Advertising considered a plus."
+                        ],
+                        "requirements": [
+                            "Minimum 3 years of experience in Paid Media/Digital Marketing.",
+                            "Passionate about marketing and search marketing.",
+                            "Solid understanding of multiple digital channels and how they work together (SEM, SEO, CRO, Social, Display, etc.)",
+                            "Google Ads Certified, Google Analytics Certified not required, but a plus",
+                            "Master with Excel and Google Sheets to create and maintain dashboards and provide ad hoc analysis. Comfortable with sumifs ,countifs, vlookup, pivot tablets, etc.",
+                            "Data and web metrics analytical skills.",
+                            "Excellent verbal & written communication skills in English ",
+                            "Positive attitude, detail and teamwork oriented with good multitasking skills.",
+                            "Highly organized and must be able to multi-task, handling several tasks/projects at one time",
+                            "Ability to multi-task and manage time efficiently to deliver campaigns under deadlines",
+                            "Ability to work collaboratively and be an integral part of an overall team environment"
+                        ]
+                    },
+                    {
+                        "id": "55",
+                        "dept_no": "39",
+                        "dept": "PMO",
+                        "title": "PMO Assistant (Mandarin Speaking)",
+                        "slug": "pmo-assistant-mandarin-expat",
+                        "market": "Malaysian,Taiwanese,Singaporean",
+                        "responsibilities": [
+                            "Write letters and send them to appropriate bodies, and receive incoming mails",
+                            "Carry out administrative duties by collecting data, sorting, filing, and sending out project files to the right personnel, departments, and stakeholders",
+                            "Maintain contacts with potential stakeholders who may be interested in investing in projects",
+                            "Collects and analyses requirements and effective execution of projects/tasks",
+                            "Supervise projects/tasks in progress and ensures that all issues related to the projects are clarified and completed to avoid confusion and interruption during the execution of projects.",
+                            "Keep records of all information related to the project for documentation, clarification, and presentation to management",
+                            "Intermediate between the Project Team and other Departments to prevent agitations that may hinder the smooth flow of project execution",
+                            "Draft project proposal ideas and present them to the Project Executive with convincing proof for approval"
+                        ],
+                        "requirements": [
+                            "Graduated with Bachelor's/College Degree, Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent.",
+                            "Must be fluent or native in Mandarin language both verbal and written.",
+                            "Conversational English Communication skills is required. ",
+                            "Experience in Online Casino and/or E-gaming industries is a plus but not required.",
+                            "Must have at least 1-year experience as a Business Analyst/Project Assistant.",
+                            "Excellent skills with Microsoft Word Office, Excel, PowerPoint, Trello, Redmine, etc.",
+                            "Ability to pay attention to detail.",
+                            "Good communication skills.",
+                            "Ability to solve problems.",
+                            "Ability to manage time effectively.",
+                            "Must be willing to work and relocate in Makati City, Philippines (on-site)."
+                        ]
+                    },
+                    {
+                        "id": "71",
+                        "dept_no": "22",
+                        "dept": "Marketing",
+                        "title": "Casino Marketing",
+                        "slug": "casino-marketing-expat",
+                        "market": "Any Expat Nationality",
+                        "responsibilities": [
+                            "Cross selling active sports players to Casino products",
+                            "Acquisition of new Casino players thru various channels (including finding affiliates whose websites rank for casino keywords and negotiating out a workable agreement). ",
+                            "Enhance Casino UI for Asia & Smart sites for 12B site",
+                            "Evaluate & Improve the way how network promotions are handled atm (user participation & flow). ",
+                            "Propose long term promotional strategies with the help of, but not limited to provider Back offices. ",
+                            "Analyzing and suggesting improvements on Active Casino promotions",
+                            "Customizing game display via CMS based on inputs received from Provider & RM team",
+                            "Strategize on increment of overall Active player count with time."
+                        ],
+                        "requirements": [
+                            "Graduate of Bachelor's/College/Master’s Degree in Business Studies/Administration/Management, Marketing, Advertising/Media or equivalent.",
+                            "Fluency in English Language both verbal and written.",
+                            "Experience in Casino and / or E-gaming marketing across multiple mediums – Printed, press, TV, Online, Social networking highly desirable",
+                            "Those without related experience but has extensive marketing knowledge and experiences especially in online and offline methods are encouraged to apply. Advertising experience is an asset.",
+                            "Exposure to Affiliate campaign management (Online Advertising).",
+                            "Ability to operate with a highly organized approach to time sensitive deadlines",
+                            "Has a project management and marketing planning skills"
+                        ]
+                    },
+                    {
+                        "id": "70",
+                        "dept_no": "17",
+                        "dept": "IT",
+                        "title": "IT Manager (Mandarin Speaking)",
+                        "slug": "it-manager-mandarin-expat",
+                        "market": "Malaysian,Taiwanese,Singaporean",
+                        "responsibilities": [
+                            "Maintain accurate inventory and records of all Hardware, Software and Manuals purchased by the Company.",
+                            "Ensure that all Software runs with no output errors, no response time problems and functioning according to specifications.",
+                            "Prepare a monthly report regarding the Systems and issues related to smoot operation of Application Software.",
+                            "Maintain the Documentation of the Telephone system configuration and all MPT lines.",
+                            "Understand all the Department working procedures and perform the related tasks as described.",
+                            "Carry out the repairs and maintenance of all PCs, Printers, Telephones, Interactive system, Key lock system, etc.",
+                            "Maintain all Users access request and Authorizations (Windows, Email, Security, and Network Permission).",
+                            "Act as the Primary contact for all outside agents in all Computer technology related matters.",
+                            "Respond to all users request and provide them with adequate support.",
+                            "Manage IT Department Staffs. ",
+                            "IT Department staff skill training. ",
+                            "Assessing and purchasing new and replacement Hardware and Software. ",
+                            "Evaluating risk, developing Network recovery and Backup processes. ",
+                            "Workflow definition including (cross-departmental integration).",
+                            "Weekly meeting with AirCast IT.",
+                            "IT Department staffs KPI scoring. ",
+                            "IT Recruitment"
+                        ],
+                        "requirements": [
+                            "Candidate must possess at least a Bachelor's/College Degree, Post Graduate Diploma / Master's Degree, Engineering (Computer/Telecommunication) or equivalent.",
+                            "Must be native in Mandarin language both verbal and written.",
+                            "Fluency in English Skills is required.",
+                            "At least 5 year(s) of working experience in the related field is required for this position.",
+                            "Preferably Supervisor / 5 Yrs & Up Experienced Employees specializing in IT/Computer - Network/System/Database Admin or equivalent",
+                            "Applicant must be willing to work and relocate in Makati City, Philippines"
+                        ],
+                        "skill_requirements": [
+                            "Management and Supervisory skills",
+                            "Ability to install and administer computer hardware, software, and networks ",
+                            "Team-building skills",
+                            "Analytical and problem-solving skills",
+                            "Decision-making skills",
+                            "Effective verbal, presentation, and listening communications skills",
+                            "Effective written communications skills",
+                            "Computer skills including the ability to operate website development programs",
+                            "Manage budget and risks"
+                        ],
+                        "knowledge_requirements": [
+                            "Computer Hardware and Software systems and programs",
+                            "Computer Networks, Network Administration, and Network installation (Cisco, Fortinet, Sophos Central)",
+                            "Server System Administration and Installation (VM Server, Storage, SANS, NAS)",
+                            "Operating System, Windows Servers 2012, 2022 and Linux",
+                            "Computer troubleshooting",
+                            "Computer viruses and security",
+                            "E-mail Engine and Internet programs"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "faqs": {
+        "navbar_title": "FAQS",
+        "header": "<em>FREQUENTLY ASKED <span class='highlight-color'>QUESTIONS</span></em>",
+        "contents": [
+            {
+                "title": "How do I apply?",
+                "description": "We prioritize online applications, but we also entertain walk-in applicants."
+            },
+            {
+                "title": "How long is the hiring process?",
+                "description": "Our application process lasts for one (1) to three (3) weeks."
+            },
+            {
+                "title": "How do I know the available positions?",
+                "description": "Please visit our <a href='/careers' target='_blank'><u>Career</u></a> page to know the job that best suits your interest and abilities."
+            },
+            {
+                "title": "What are the benefits that you provide?",
+                "description": "We offer a high remuneration package and above industry perks and benefits. Click <a href='/#perks' target='_blank'><u>here</u></a> to know more of what we have in store for you."
+            },
+            {
+                "title": "Can I apply for different job positions?",
+                "description": "Yes. But take note that we review all your skills to know the position that is best for you."
+            },
+            {
+                "title": "Do you provide accommodation for expat employees?",
+                "description": "Yes. We provide accommodation. Wi-Fi subscriptions and housemaids are also provided."
+            },
+            {
+                "title": "What is the working schedule?",
+                "description": "Those who are working in the operations have three (3) shifts (morning, mid and night), which are shuffled monthly. For those that are working in the back office, the shift is 9AM to 6 PM."
+            },
+            {
+                "title": "How is the processing of the working visa done?",
+                "description": "The company will be in charge of applying the expat employee’s working permit and processing other pertinent legal documents. The employee must take note of the terms and condition that apply in the employment agreement."
+            },
+            {
+                "title": "How many employees do you have?",
+                "description": "We are a multinational company, which employs 300 to 350 employees. The nationalities that work here are Filipino, Malaysian, Chinese, Thai, Vietnamese, Indian, Korean, Japanese and Australia."
+            },
+            {
+                "title": "What is your working environment?",
+                "description": "Our organizational culture thrives through the following principles: equality, excellence and mutual respect."
+            }
+        ]
+    },
+    "outreach": {
+        "navbar_title": "Outreach Programs"
+    },
+    "contact": {
+        "navbar_title": "Contact Us"
+    },
+    "privacy_policy": {
+        "title": "<em><span class='highlight-color'>Privacy</span> Policy</em>",
+        "contents": [
+            "Our web servers only recognize the IP address or domain name of each visitor of this webpage, but not their e-mail address.",
+            "The e-mail addresses and other personally identifiable information are collected from users of this web site when communicating with us via e-mail or other means. We also collect information and statistical data on our website such as what pages visitors access or visit and information volunteered by the visitor, such as survey information and/or site registrations.",
+            "This privacy policy covers PSP's treatment of personally identifiable information, that we collect from you. By \"personally identifiable information\", we mean your name, address, telephone number(s), email address, identification numbers and identification documentation. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage."
+        ],
+        "policies": [
+            {
+                "title": "<span class='highlight-color'> ACCEPTANCE OF PRIVACY POLICY </span>",
+                "description": "By accessing and using this website you are deemed to accept the Terms of Use of our Privacy Policy."
+            },
+            {
+                "title": "<span class='highlight-color'> INFORMATION COLLECTION AND USE </span>",
+                "description": "We may collect personally identifiable information from you when you submit a form on our site, email or write to us requesting information or services or customer support. We do not collect any personally identifiable information without your knowledge when you are on our site,only when you volunteer information, contact us or submit a form. We only use personally identifiable information to fulfill your requests for information or to render products or services to you."
+            },
+            {
+                "title": "<span class='highlight-color'> INFORMATION SHARING AND DISCLOSURE </span>",
+                "description": "We will not sell or rent your personally identifiable information to anyone. We will send personally identifiable information about you to other companies or people only when:",
+                "more_info": [
+                    "we have your consent to share the information; or",
+                    "we need to share your information to provide the service or product you have requested; or",
+                    "we need to send the information to companies who work on behalf of our company to provide a service requested by you (unless we otherwise notify you when we collect such information, these companies shall not have any right to use the personally identifiable information we provide to them",
+                    "we respond to subpoenas, court orders or legal process; or",
+                    "we find that your actions on our web sites violate the terms of service, or any of our usage guidelines for specific services."
+                ],
+                "more_description": "In order to provide the information or services you have requested from us, we may transfer or store your personally identifiable information on computer equipment or in offices that are located across countries or jurisdictions, and may be managed and processed by our company internally as we please and you are deemed to consent to the same"
+            },
+            {
+                "title": "<span class='highlight-color'> CONTACTING US </span>",
+                "description": "If you have any queries about your personally identifiable information we hold or you wish that information to be updated or deleted, please send an email to <a href='mailto:job@pspbpo.com'>info@pspbpo.com</a> or write to us at the address mentioned in the contact us section of this web site. "
+            }
+        ]
+    },
+    "terms_and_conditions": {
+        "title": "<em><span class='highlight-color'>Terms</span> of Use</em>",
+        "attention": "ATTENTION: PLEASE READ THESE TERMS CAREFULLY BEFORE USING THIS WEB SITE",
+        "details": [
+            {
+                "title": "ACCEPTANCE OF TERMS OF USE.",
+                "description": "By accessing and using this website <a href='/'>(“www.pspbpo.com”)</a> you are deemed to accept these Terms of Use and Privacy Policy for the use of this website. References herein to ‘our’, ‘we’, ‘our Company’, or similar are references to Pacific Sea BPO Services Inc.; references to ‘you’, ‘your’ and similar are reference to the person (natural or otherwise) accessing this website."
+            },
+            {
+                "title": "USE OF SITE.",
+                "description": "Pacific Sea BPO Services, Inc.(“PSP”) authorizes you to view and download the materials at this website only for your personal and non-commercial use, provided that all copyright and other proprietary notices contained in the original materials or any copies thereof are retained. Nothing contained in this website shall be construed as conferring by estoppels, implication or otherwise, any license or right to any copyright, patent, trademark, intellectual property or other proprietary interest of PSP or any third party. This website and its contents, including, but not limited to, website text, logos, graphic images, pictures, audio, video, html code, may not be copied, reproduced, or distributed in any way or manner, without the prior written consent of PSP."
+            },
+            {
+                "title": "NO OFFER.",
+                "description": "The content of this website does not in any way constitute an offer to sell or solicitation to buy any products or services of the Company or otherwise. The information found on this site is provided free of charge and for informational purposes only and does not create a business or professional services relationship between you and PSP. Links on this site may lead to services or sites not operated by or affiliated with PSP. PSP makes no warranties or representations as to such other links or sites that may be found herein. A link to another site or service is not an endorsement of that site or service. Any use you make of the information provided on this site, or any site or service linked to by this site, is at your own risk."
+            },
+            {
+                "title": "LINKS TO THIRD PARTY WEBSITES.",
+                "description": "Links to third party websites are provided solely as a convenience to you. If you use these links, you will leave this website and different Terms of Use of use will apply for those websites. Some links to other websites, even if operated by our Company, may provide content not suitable for everyone, upon following a link on this website you must read and accept the Terms of Use of use of the website your are accessing. Our Company has not reviewed third party websites linked herein and does not control and is not responsible for any of these websites, or their content. Our company does not adopt statements made in any third party website."
+            },
+            {
+                "title": "CONTENT DISCLAIMER.",
+                "description": "Our Company uses reasonable efforts to include accurate, complete and current (as of the date posted) information on this website, however, our company does not warrant that the content herein is accurate, complete, current or free of technical or typographical error. Further, information provided speaks as of its date and as such may no longer be true. Our Company does not undertake to update information. It is your responsibility to verify any information before relying on it. Our Company reserves the right to amend and or update information contained within this website without prior notice. Some products or services are subject to regulatory or other restrictions and are not available in all jurisdictions."
+            },
+            {
+                "title": "VENUE.",
+                "description": "PSP operates and maintains this site from Makati City, Philippines and you agree that the provisions of terms of use and any legal action or proceeding relating to them and your use of this site shall be governed by the laws of the Philippines without reference to its choice of law rules. Any suit, action or legal proceeding arising out of your use of this site shall be brought in the competent courts in Makati City, Philippines, without regard to where in the world you are located, or from where in the world you visited this site."
+            },
+            {
+                "title": "USER RESPONSIBILITIES.",
+                "description": "Access to and use of this website and the content herein is at the risk of the user. NEITHER PSP NOR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THIS WEBSITE SHALL BE LIABLE FOR ANY DIRECT, INCIDENTAL, CONSEQUENTIAL, INDIRECT OR PUNITIVE DAMAGES OR ANY DAMAGES WHATSOEVER (EVEN IF WE HAVE BEEN NOTIFIED OF THE POSSIBILITY OF THOSE DAMAGES) ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THIS WEBSITE OR ANY OTHER HYPERLINKED WEBSITE OR ANY ERRORS OR OMISSIONS IN THE CONTENT THEREOF. You are responsible for complying with the laws of the jurisdiction from which you accessing this site and you agree that you will not access or use the information on this site in violation of such laws."
+            },
+            {
+                "title": "COPYRIGHT AND TRADEMARK NOTICES.",
+                "description": "All contents of this web site, unless otherwise noted are Copyright © Pacific Sea BPO Services, Inc., <year>. All rights reserved."
+            }
+        ]
+    },
+    "footer_section": {
+        "terms_of_use": "Terms of Use",
+        "privacy_policy": "Privacy Policy",
+        "contact": "Contact",
+        "follow_us": "Follow Us",
+        "registered_company": "Registered company",
+        "copyright": "[year] Pacific Sea BPO Services, Inc. All rights reserved."
+    }
+}
